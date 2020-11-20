@@ -1,0 +1,17 @@
+{
+  "1": {
+     "level": 1,
+     "try_max": 3,
+     "nb_max": 10
+  },
+  "2": {
+    "level": 2,
+    "try_max": 5,
+    "nb_max": 20
+  },
+  "3": {
+    "level": 3,
+    "try_max": 7,
+    "nb_max": 30
+  }
+ }
